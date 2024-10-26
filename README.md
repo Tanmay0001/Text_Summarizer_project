@@ -33,3 +33,11 @@ The model's performance is evaluated using ROUGE scores, indicating how closely 
 Example:
 To see this model in action, you can run predictions on test samples after training. The script will display the input dialogue, the reference summary, and the generated summary by the model.
 
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Tanmay0001/Text_Summarizer_project.git
+   cd Text_Summarizer_project
+2. pip install -r requirements.txt
+
