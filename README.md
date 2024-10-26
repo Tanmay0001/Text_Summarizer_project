@@ -43,4 +43,3 @@ To see this model in action, you can run predictions on test samples after train
    cd Text_Summarizer_project
 2. Install the required libraries:
    pip install -r requirements.txt
-
