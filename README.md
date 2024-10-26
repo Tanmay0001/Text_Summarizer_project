@@ -42,4 +42,5 @@ To see this model in action, you can run predictions on test samples after train
    git clone https://github.com/Tanmay0001/Text_Summarizer_project.git
    cd Text_Summarizer_project
 2. Install the required libraries:
+   ```bash
    pip install -r requirements.txt
