@@ -7,7 +7,9 @@ This project involves fine-tuning a Pegasus model on the SAMSum dataset for text
 
 This project implements a sequence-to-sequence model using the Pegasus architecture for summarizing dialogues from the SAMSum dataset. The model is trained to generate concise summaries of conversational text, showcasing the capabilities of state-of-the-art natural language processing (NLP) techniques.
 
-The SAMSum dataset consists of dialogues paired with their corresponding summaries, making it an ideal dataset for training and evaluating text summarization models.
+DATASET: The SAMSum dataset consists of dialogues paired with their corresponding summaries, making it an ideal dataset for training and evaluating text summarization models.
+
+This project also involves fine-tuning the Pegasus model on the SAMSum dataset, allowing it to generate concise summaries of dialogues by adapting the pre-trained model to specific conversational patterns and content in the dataset. This fine-tuning process enhances the model's summarization capabilities, making it more effective for summarizing conversational text.
 
 ## Dependencies
 This project requires the following Python libraries:
